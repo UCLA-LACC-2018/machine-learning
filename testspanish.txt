@@ -1,0 +1,1 @@
+Una situación en la que esto podría perjudicar sería eliminar correctamente un archivo de valores separados por tabulaciones en el que algunas filas tenían múltiples valores vacíos en sus celdas de la derecha.
